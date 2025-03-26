@@ -1,4 +1,4 @@
-status: {
-    "status": "UNDETECTED",
-    "color": "green",
-]
+{
+  "status": "UNDETECTED",
+  "color": "green"
+}
