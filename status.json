@@ -1,4 +1,4 @@
 {
-  "status": "UNDETECTED",
-  "color": "green"
+  "status": "DETECTED",
+  "color": "red"
 }
