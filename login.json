@@ -1,3 +1,6 @@
 {
-    "Admin": "G,Te9Y6r95x@e)42Fr:WR2fn_Q#9s{",
+    "Admin": {
+        "password": "G,Te9Y6r95x@e)42Fr:WR2fn_Q#9s{",
+        "expiration": "3000-04-01"
+    }
 }
