@@ -2,10 +2,9 @@
     "admin": {
         "password": "674c7d6271857757ea15e9ed820e8e682c0d576049a9a2f4364b72ad7a73ba67",
         "expiration": "3000-12-31"
-    }
+    },
     "malvagio": {
         "password": "bc0219219f30c337a6c3ac2f8f4a85f37a1c37644e597f1ce6c115ea08c25409",
         "expiration": "3000-12-31"
     }
-    
 }
