@@ -1,0 +1,6 @@
+{
+    "test": {
+        "password": "test",
+        "expiration": "3000-12-31"
+    }
+}
